@@ -12,7 +12,7 @@
 **https://discord.com/channels/@me**
 <br>
 ![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/39214ba3-12cf-4f1c-875d-20f388978fcf)
-**https://twitter.com/home**
+**https://x.com/RiddhModi?t=tuEVwXCK07cQlNGXw9-pbw&s=09**
 <br>
 ![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/fd78d164-04e2-42a8-a308-478960b3905c)
 **www.linkedin.com/in/riddh-modi-29a348226**
