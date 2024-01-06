@@ -6,8 +6,8 @@
 <br>
 <br>
 **Connect with me :**
-<br>
-<a herf="https://discord.com/channels/@me"><img src=""C:\Users\Riddh Modi\OneDrive\Pictures\Wallpaper\Gitlogo\icons8-discord-48.png""></a>
+<be>
+**<a herf="https://discord.com/channels/@me"><img src=""C:\Users\Riddh Modi\OneDrive\Pictures\Wallpaper\Gitlogo\icons8-discord-48.png""></a>**
 <br>
 ![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/39214ba3-12cf-4f1c-875d-20f388978fcf)
 **https://x.com/RiddhModi?t=tuEVwXCK07cQlNGXw9-pbw&s=09**
