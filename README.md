@@ -8,7 +8,7 @@
 **Connect with me :**
 <br>
 <br>
-C:\Users\Riddh Modi\OneDrive\Pictures\Wallpaper\Gitlogo\icons8-discord-48.png
+![icons8-discord-48](https://github.com/Riddh2003/Riddh2003/assets/120695354/9c623778-903f-4525-8ec8-36a88f08e9f1)
 **https://discord.com/channels/@me**
 <br>
 ![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/39214ba3-12cf-4f1c-875d-20f388978fcf)
