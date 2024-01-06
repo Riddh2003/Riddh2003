@@ -7,9 +7,7 @@
 <br>
 **Connect with me :**
 <br>
-<br>
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/03362702-27d4-4e81-bc2f-0ad64e18b661)
-**https://discord.com/channels/@me**
+<a herf="https://discord.com/channels/@me"><img src=""C:\Users\Riddh Modi\OneDrive\Pictures\Wallpaper\Gitlogo\icons8-discord-48.png""></a>
 <br>
 ![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/39214ba3-12cf-4f1c-875d-20f388978fcf)
 **https://x.com/RiddhModi?t=tuEVwXCK07cQlNGXw9-pbw&s=09**
@@ -18,7 +16,7 @@
 **www.linkedin.com/in/riddh-modi-29a348226**
 <br>
 <br>
-**Languages and Tools :**
+**Languages and Tools:**
 <br>
 <br>
 ![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/50b2d411-6964-45f1-9a9d-b4c9e1153d78)
