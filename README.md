@@ -1,11 +1,11 @@
 # Hi, 👋 I am Riddh Modi.
-**I am interested in DataScience(AI with Robotics)**
+**I am interested in JavaFullStackDevelopment and Android App Development.**
 <br>
 <br>
-**Gmail-ID : riddhmodi2003@gmail.com**
+**Gmail-ID: riddhmodi2003@gmail.com**
 <br>
 <br>
-**Connect with me :**
+**Connect with me:**
 <br>
 <br>
 ![icons8-discord-48](https://github.com/Riddh2003/Riddh2003/assets/120695354/9c623778-903f-4525-8ec8-36a88f08e9f1)
