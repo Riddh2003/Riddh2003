@@ -1,36 +1,41 @@
-# Hi, 👋 I am Riddh Modi.
-**I am interested in JavaFullStackDevelopment and Android App Development.**
-<br>
-<br>
-**Gmail-ID: riddhmodi2003@gmail.com**
-<br>
-<br>
-**Connect with me:**
-<br>
-<br>
-![icons8-discord-48](https://github.com/Riddh2003/Riddh2003/assets/120695354/9c623778-903f-4525-8ec8-36a88f08e9f1)
-**https://discord.com/channels/@me**
-<br>
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/39214ba3-12cf-4f1c-875d-20f388978fcf)
-**https://x.com/RiddhModi?t=tuEVwXCK07cQlNGXw9-pbw&s=09**
-<br>
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/fd78d164-04e2-42a8-a308-478960b3905c)
-**www.linkedin.com/in/riddh-modi-29a348226**
-<br>
-<br>
-**Languages and Tools:**
-<br>
-<br>
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/50b2d411-6964-45f1-9a9d-b4c9e1153d78)
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/6bd4126e-11ee-45a2-9a9e-20d816c93f8c)
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/078aa69a-ca0c-4c28-b956-7fb19bfc404a)
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/0e929cd1-4374-4daf-a548-a61fc6692e59)
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/3b5a675e-2cfb-417e-84cc-aa0a6b4fa076)
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/9c866930-dd95-4918-b180-641fd67a4112)
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/a3174003-81cb-4dcb-991d-3a887f3dc0f1)
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/3d87924f-dacf-43bc-ab08-7fb9e4c6e5d2)
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/23e16994-9ff3-499f-9180-8750d8fbf598)
-![image](https://github.com/Riddh2003/Riddh2003/assets/120695354/d5193c7d-8647-4e61-917a-44a1a5fb0a48)
-![android 218x256](https://github.com/Riddh2003/Riddh2003/assets/120695354/813a0cc5-fcf3-4137-84de-ed09ca6f8d62)
-![spring 256x256](https://github.com/Riddh2003/Riddh2003/assets/120695354/4a62a976-e4f9-490b-8611-bae36574ed84)
-![fTL08u_H_400x400](https://github.com/Riddh2003/Riddh2003/assets/120695354/867c6831-68d5-478a-9f18-e553da921f70)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<h1 align="center">Hi 👋, I'm Riddh Modi</h1>
+<h3 align="center">JavaFullStack Developer & Android Developer</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riddh2003&label=Profile%20views&color=0e75b6&style=flat" alt="riddh2003" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddh2003" alt="riddh2003" /></a> </p>
+<img align="right" alt="Coding" width="400" align="center" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+
+- 🔭 I’m currently working on [Ecom-app](https://github.com/Riddh2003/Ecom-app)
+
+- 🌱 I’m currently learning **Reactjs., Spring(core,mvc,boot)**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-one-jade-39.vercel.app/](https://portfolio-one-jade-39.vercel.app/)
+
+- 💬 Ask me about **Java, Android**
+
+- 📫 How to reach me **riddhmodi2003@gmail.com**
+
+- 📄 Know about my experiences [https://portfolio-one-jade-39.vercel.app/](https://portfolio-one-jade-39.vercel.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/riddhmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riddhmodi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/riddh-modi-29a348226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riddh-modi-29a348226/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/riddhmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/riddhmodi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/riddhmodi2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/riddhmodi2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/riddhmodi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/riddhmodi/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@riddhmodi2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@riddhmodi2003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/riddhmodi2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/riddhmodi2003/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddh2003&show_icons=true&locale=en&layout=compact" alt="riddh2003" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riddh2003&show_icons=true&locale=en" alt="riddh2003" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddh2003&" alt="riddh2003" /></p>
