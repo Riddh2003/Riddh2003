@@ -1,7 +1,7 @@
 <p><img align="left" height="150" width="500" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"/></p>
 <p><img align="center" height="150" width="300" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3o3zoqb5ysrcuujnyoz9.gif"/></p>
 <h1 align="center">Hi 👋, I'm Riddh Modi</h1>
-<h3 align="center">JavaFullStack Developer & Android Developer</h3>
+<h3 align="center">Java Full Stack Developer & Android Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddh2003&label=Profile%20views&color=0e75b6&style=flat" alt="riddh2003" /> </p>
 <img align="right" alt="Coding" width="400" align="center" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 - 🔭 I’m currently working on [Ecom-app](https://github.com/Riddh2003/Ecom-app)
