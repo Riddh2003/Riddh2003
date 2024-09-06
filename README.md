@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-one-jade-39.vercel.app/](https://portfolio-one-jade-39.vercel.app/)
 
-- 💬 Ask me about **Java, Android**
+- 💬 Ask me about **Java, JavaScript, React, Spring(core, mvc,  boot)**
 
 - 📫 How to reach me **riddhmodi2003@gmail.com**
 
